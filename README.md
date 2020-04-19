@@ -37,6 +37,8 @@ https://github.com/EmpireProject/Empire
 
 https://github.com/cobbr/Covenant
 
+https://github.com/epinna/weevely3
+
 BROWSER EXPLOITATION
 https://github.com/beefproject/beef
 
