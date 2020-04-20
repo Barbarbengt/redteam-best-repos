@@ -1,6 +1,19 @@
 # redteam-best-repos
 All best github repos useful for OSCP
 
+PTES
+
+1. Intelligence Gathering
+2. Initial Foothold
+3. Local/Network Enumeration
+4. Local Privilege Escalation
+5. Persistence
+6. Lateral Movement
+7. Domain Privilege Escalation
+8. Dumping Hashes
+9. Data Identification/Exfiltration
+10. Reporting
+
 OSINT
 
 https://github.com/laramies/theHarvester
