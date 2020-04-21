@@ -56,6 +56,8 @@ https://github.com/PowerShellMafia/PowerSploit
 
 https://github.com/samratashok/nishang
 
+https://github.com/cheetz/Easy-P
+
 BROWSER EXPLOITATION
 https://github.com/beefproject/beef
 
