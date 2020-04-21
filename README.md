@@ -52,6 +52,10 @@ https://github.com/cobbr/Covenant
 
 https://github.com/epinna/weevely3
 
+https://github.com/PowerShellMafia/PowerSploit
+
+https://github.com/samratashok/nishang
+
 BROWSER EXPLOITATION
 https://github.com/beefproject/beef
 
